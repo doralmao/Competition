@@ -8,5 +8,5 @@ baseurl: "/competition" # the subpath of your site, e.g. /blog/
 url: "https://doralmao.github.io" # the base hostname & protocol for your site
 twitter_username: doralmathletes
 github_username:  doralmao
-instagram_username:
+instagram_username: doralmao
 theme: minima
