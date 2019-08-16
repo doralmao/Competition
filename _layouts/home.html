@@ -1,5 +1,18 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html>
 
-{{ content }}
+  <body>
 
-{% include footer.html %}
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
